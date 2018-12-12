@@ -1,7 +1,7 @@
 tkinter guess number game (GUI)
 
-requirements: tkinter module
+Requirements: tkinter module
 
-description: computer picks a random number in 1:100 range. Try to guess it with minimum tries.
+Description: computer picks a random number in 1:100 range. Try to guess it with minimum tries.
 
-run 'guess number.py' to play
+Run 'guess number.py' to play
