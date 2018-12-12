@@ -1,4 +1,4 @@
-"""THis module represents a 'guess number' game application"""
+"""This module represents a 'guess number' game application"""
 
 # import
 import tkinter
